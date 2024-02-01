@@ -1,17 +1,4 @@
 
-
-<h1 align="center">Hi 👋, I'm DAave MITT</h1>
-<h3 align="center">Growing with Web3</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/RODiNw1qKHct74LACe/giphy.gif?cid=ecf05e475bmxwkw76hrywxlgnhe84nq5qaq3lgwxnoa6r51n&rid=giphy.gif&ct=g">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daavemitt&label=Profile%20views&color=0e75b6&style=flat" alt="daavemitt" /> </p>
-
-
-- Crypto Currency **Ethereum & Polygon & Bitrock <3**
-
-- 📫 How to reach me **DAaveMITT@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/daavemitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daavemitt" height="30" width="40" /></a>
